@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1667px" height="2083px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 783.67 979.58"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003"
+ data-name="Line Color">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#2CA9BC;stroke-width:97.96;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .str0 {stroke:white;stroke-width:97.96;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2579808718128">
+   <path id="primary" class="fil0 str0" d="M538.77 146.94l146.94 0c27.04,0 48.98,21.93 48.98,48.98l0 685.71c0,27.04 -21.94,48.97 -48.98,48.97l-587.75 0c-27.05,0 -48.98,-21.93 -48.98,-48.97l0 -685.71c0,-27.05 21.93,-48.98 48.98,-48.98l146.94 0"/>
+   <path id="secondary" class="fil0 str1" d="M391.83 685.71l0 -195.92m97.96 97.96l-195.92 0m244.9 -489.79c0,-27.05 -21.93,-48.98 -48.98,-48.98l-195.92 0c-27.04,0 -48.97,21.93 -48.97,48.98l0 146.94 293.87 0 0 -146.94z"/>
+  </g>
+ </g>
+</svg>

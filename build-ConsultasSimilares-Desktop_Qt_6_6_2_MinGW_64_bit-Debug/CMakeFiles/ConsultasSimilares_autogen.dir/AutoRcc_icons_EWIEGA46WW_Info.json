@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ConsultasSimilares_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares",
+	"CMAKE_SOURCE_DIR" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares",
+	"INCLUDE_DIR" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ConsultasSimilares_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/medical-receipt-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/off-users-user-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/modify.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/refresh.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/electrocardiogram-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/dr-simi-farmacias-similares-logo-svg-vector.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/users-user-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/off-medical-receipt-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/off-medicine-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/medicine-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/add.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/off-doctor-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/search.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/menu.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/off-electrocardiogram-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/doctor-svgrepo-com.svg",
+		"C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/Icons/remove.svg"
+	],
+	"LOCK_FILE" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/ConsultasSimilares_autogen.dir/AutoRcc_icons_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "icons" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_icons.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.6.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/ConsultasSimilares_autogen.dir/AutoRcc_icons_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/ConsultasSimilares/icons.qrc",
+	"VERBOSITY" : 0
+}

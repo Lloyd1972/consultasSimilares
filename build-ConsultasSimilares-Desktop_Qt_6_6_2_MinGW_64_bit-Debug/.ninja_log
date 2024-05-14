@@ -1,0 +1,45 @@
+# ninja log v5
+1061	2563	7373757051748184	ConsultasSimilares_autogen/timestamp	75dee1751bb4adb1
+1061	2563	7373757051748184	ConsultasSimilares_autogen/mocs_compilation.cpp	75dee1751bb4adb1
+1061	2563	7373757051748184	C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ConsultasSimilares_autogen/mocs_compilation.cpp	75dee1751bb4adb1
+5113	9881	7373288622174448	CMakeFiles/ConsultasSimilares.dir/consultation.cpp.obj	9c7acb2dc449441b
+1061	2563	7373757051748184	C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ConsultasSimilares_autogen/timestamp	75dee1751bb4adb1
+2858	6616	7373757092239890	CMakeFiles/ConsultasSimilares.dir/medicinedialog.cpp.obj	d16dd7044d58c6ac
+4691	4960	7373288573031128	ConsultasSimilares_autogen/EWIEGA46WW/qrc_icons.cpp	b82b9907cac3a3c2
+4691	4960	7373288573031128	C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ConsultasSimilares_autogen/EWIEGA46WW/qrc_icons.cpp	b82b9907cac3a3c2
+4984	9258	7373288615444712	CMakeFiles/ConsultasSimilares.dir/address.cpp.obj	118c5612fc0772c6
+5289	10179	7373288624796830	CMakeFiles/ConsultasSimilares.dir/diagnosis.cpp.obj	ab6343b442a6e312
+5197	10579	7373288628670347	CMakeFiles/ConsultasSimilares.dir/diagnosisfile.cpp.obj	4082c9eaf24d3be8
+5071	10564	7373288629000647	CMakeFiles/ConsultasSimilares.dir/consultationfile.cpp.obj	f2a1db6082cbc2b7
+5438	10814	7373288631482906	CMakeFiles/ConsultasSimilares.dir/doctorfile.cpp.obj	9245d6aacd4ef06a
+2785	6684	7373757092930525	CMakeFiles/ConsultasSimilares.dir/diagnosisdialog.cpp.obj	ecebea4ca97cc22e
+5391	11035	7373288633054330	CMakeFiles/ConsultasSimilares.dir/doctor.cpp.obj	c06e3de6430efcd4
+11465	11861	7373288641882352	CMakeFiles/ConsultasSimilares.dir/ConsultasSimilares_autogen/EWIEGA46WW/qrc_icons.cpp.obj	d9066d5ce6fd2ef
+2822	6770	7373757093791304	CMakeFiles/ConsultasSimilares.dir/doctordialog.cpp.obj	75b6df7942d9d6bb
+9888	12423	7373288647487442	CMakeFiles/ConsultasSimilares.dir/medicine.cpp.obj	17cdb1cb3858f028
+2677	7705	7373757103149815	CMakeFiles/ConsultasSimilares.dir/ConsultasSimilares_autogen/mocs_compilation.cpp.obj	9b636f69b3642121
+10569	13978	7373288663131661	CMakeFiles/ConsultasSimilares.dir/name.cpp.obj	1247b98639aa7d32
+2741	7891	7373757105001501	CMakeFiles/ConsultasSimilares.dir/consultationdialog.cpp.obj	cf7dcfd79e08a0e1
+2681	7570	7373757101768553	CMakeFiles/ConsultasSimilares.dir/main.cpp.obj	7340294f926d135
+10661	14685	7373288670288441	CMakeFiles/ConsultasSimilares.dir/patient.cpp.obj	fc79d21fa2899ea7
+2719	8791	7373757113979649	CMakeFiles/ConsultasSimilares.dir/mainwindow.cpp.obj	e291203a95faebf4
+10964	14785	7373288671309366	CMakeFiles/ConsultasSimilares.dir/compresseddata.cpp.obj	44747da7a3c06d47
+2929	6526	7373757091329069	CMakeFiles/ConsultasSimilares.dir/medicinefile.cpp.obj	f4952ecc778e38a5
+2894	6835	7373757094431884	CMakeFiles/ConsultasSimilares.dir/patientdialog.cpp.obj	a49a07dd16333c06
+2945	6581	7373757091889574	CMakeFiles/ConsultasSimilares.dir/searchdialog.cpp.obj	ff049ef2fdb93695
+11036	15872	7373288682169235	CMakeFiles/ConsultasSimilares.dir/patientfile.cpp.obj	72a4d7f47caad7c5
+8791	10639	7373757132416405	ConsultasSimilares.exe	22bdb496e7c3c657
+29	1390	7373758536968893	ConsultasSimilares_autogen/timestamp	75dee1751bb4adb1
+29	1390	7373758536968893	ConsultasSimilares_autogen/mocs_compilation.cpp	75dee1751bb4adb1
+29	1390	7373758536968893	C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ConsultasSimilares_autogen/timestamp	75dee1751bb4adb1
+29	1390	7373758536968893	C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ConsultasSimilares_autogen/mocs_compilation.cpp	75dee1751bb4adb1
+1958	5788	7373758580788722	CMakeFiles/ConsultasSimilares.dir/searchdialog.cpp.obj	ff049ef2fdb93695
+1880	5870	7373758581589437	CMakeFiles/ConsultasSimilares.dir/medicinedialog.cpp.obj	d16dd7044d58c6ac
+1951	5925	7373758582310098	CMakeFiles/ConsultasSimilares.dir/patientdialog.cpp.obj	a49a07dd16333c06
+1842	6009	7373758583140856	CMakeFiles/ConsultasSimilares.dir/doctordialog.cpp.obj	75b6df7942d9d6bb
+1804	6268	7373758585733204	CMakeFiles/ConsultasSimilares.dir/diagnosisdialog.cpp.obj	ecebea4ca97cc22e
+1686	7291	7373758595982522	CMakeFiles/ConsultasSimilares.dir/ConsultasSimilares_autogen/mocs_compilation.cpp.obj	9b636f69b3642121
+1691	7430	7373758597383789	CMakeFiles/ConsultasSimilares.dir/main.cpp.obj	7340294f926d135
+1756	7674	7373758599785973	CMakeFiles/ConsultasSimilares.dir/consultationdialog.cpp.obj	cf7dcfd79e08a0e1
+1705	8474	7373758607783236	CMakeFiles/ConsultasSimilares.dir/mainwindow.cpp.obj	e291203a95faebf4
+8474	10386	7373758626820534	ConsultasSimilares.exe	3d62752fe855328d

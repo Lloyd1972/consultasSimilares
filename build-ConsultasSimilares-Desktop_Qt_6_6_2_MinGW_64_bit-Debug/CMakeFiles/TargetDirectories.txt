@@ -1,0 +1,9 @@
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/ConsultasSimilares.dir
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/ConsultasSimilares_autogen_timestamp_deps.dir
+C:/Users/TufB450M/OneDrive/Tareas Universidad/5o Semestre/SSEDII/10. Implementacion Consultas/build-ConsultasSimilares-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/ConsultasSimilares_autogen.dir

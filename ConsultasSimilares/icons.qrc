@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/add.svg</file>
+        <file>Icons/doctor-svgrepo-com.svg</file>
+        <file>Icons/dr-simi-farmacias-similares-logo-svg-vector.svg</file>
+        <file>Icons/electrocardiogram-svgrepo-com.svg</file>
+        <file>Icons/medical-receipt-svgrepo-com.svg</file>
+        <file>Icons/medicine-svgrepo-com.svg</file>
+        <file>Icons/menu.svg</file>
+        <file>Icons/modify.svg</file>
+        <file>Icons/off-doctor-svgrepo-com.svg</file>
+        <file>Icons/off-electrocardiogram-svgrepo-com.svg</file>
+        <file>Icons/off-medical-receipt-svgrepo-com.svg</file>
+        <file>Icons/off-medicine-svgrepo-com.svg</file>
+        <file>Icons/off-users-user-svgrepo-com.svg</file>
+        <file>Icons/remove.svg</file>
+        <file>Icons/users-user-svgrepo-com.svg</file>
+        <file>Icons/search.svg</file>
+        <file>Icons/refresh.svg</file>
+    </qresource>
+</RCC>
